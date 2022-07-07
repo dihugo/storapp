@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/storapp/static/css/main.073c9b0a.css",
+    "main.js": "/storapp/static/js/main.9ac65260.js",
+    "static/js/787.f1ce5fde.chunk.js": "/storapp/static/js/787.f1ce5fde.chunk.js",
+    "static/media/logo.svg": "/storapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/storapp/index.html",
+    "main.073c9b0a.css.map": "/storapp/static/css/main.073c9b0a.css.map",
+    "main.9ac65260.js.map": "/storapp/static/js/main.9ac65260.js.map",
+    "787.f1ce5fde.chunk.js.map": "/storapp/static/js/787.f1ce5fde.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9ac65260.js"
+  ]
+}
